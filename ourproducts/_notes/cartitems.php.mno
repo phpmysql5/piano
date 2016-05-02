@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProducts" value="name:ProductID;datatype:int,name:TypeID;datatype:int,name:ProductName;datatype:string,name:Summary;datatype:blob,name:ProductDesc;datatype:blob,name:IMAGE;datatype:blob,name:ProductModal;datatype:string,name:ProductPrice;datatype:int,name:BrandName;datatype:string,name:BrandID;datatype:int" />
+	<infoitem key="UD_rsBrands" value="name:BrandID;datatype:int,name:BrandName;datatype:string" />
+	<infoitem key="UD_rsCustomer" value="name:FirstName;datatype:string,name:LastName;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:State;datatype:string,name:ZIP;datatype:int,name:Phone;datatype:int,name:EmaiID;datatype:string" />
+	<infoitem key="UD_rsCartItem" value="name:CartItemID;datatype:int,name:Quantity;datatype:int,name:TotalCost;datatype:int,name:ProductID;datatype:int,name:ProductName;datatype:string" />
+	<infoitem key="UD_rsPaid" value="name:ProductName;datatype:string,name:Date;datatype:timestamp,name:ProductID;datatype:int,name:AMOUNT;datatype:int" />
+</info>

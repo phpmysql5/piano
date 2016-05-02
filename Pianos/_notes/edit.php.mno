@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProducts" value="name:ProductID;datatype:int,name:ProductName;datatype:string,name:BrandName;datatype:string,name:ProductModal;datatype:string,name:TypeName;datatype:string,name:Summary;datatype:blob,name:ProductDesc;datatype:blob,name:IMAGE;datatype:blob,name:ProductModal;datatype:string,name:ProductPrice;datatype:int,name:Status;datatype:int" />
+	<infoitem key="UD_rsBrand" value="name:BrandID;datatype:int,name:BrandName;datatype:string" />
+	<infoitem key="UD_rsPianoType" value="name:TypeID;datatype:int,name:TypeName;datatype:string" />
+	<infoitem key="UD_rsStatus" value="name:Status;datatype:int,name:ProductID;datatype:int" />
+</info>

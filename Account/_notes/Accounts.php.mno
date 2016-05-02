@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPayments" value="name:PaymentID;datatype:int,name:CartID;datatype:int,name:CardID;datatype:int,name:PaymentType;datatype:string,name:AMOUNT;datatype:int,name:Date;datatype:timestamp" />
+	<infoitem key="UD_rsCart" value="name:FirstName;datatype:string,name:LastName;datatype:string,name:ProductName;datatype:string,name:TotalCost;datatype:int,name:Date;datatype:timestamp" />
+</info>

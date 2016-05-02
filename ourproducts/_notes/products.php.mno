@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsProducts" value="name:ProductID;datatype:int,name:BrandID;datatype:int,name:TypeID;datatype:int,name:ProductName;datatype:string,name:Summary;datatype:blob,name:ProductDesc;datatype:blob,name:IMAGE;datatype:blob,name:ProductModal;datatype:string,name:ProductPrice;datatype:int" />
+	<infoitem key="UD_rsKawai" value="name:ProductID;datatype:int,name:TypeID;datatype:int,name:ProductName;datatype:string,name:IMAGE;datatype:blob" />
+	<infoitem key="UD_rsBrands" value="name:BrandID;datatype:int,name:BrandName;datatype:string" />
+</info>
